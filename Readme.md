@@ -1,5 +1,22 @@
 ## Flashcards
 
+## Lab 2
+
+### App Description
+This project allows the user to press on the + button to open another page.  The user then has the ability to enter their own question and answer. Upon completion the user can can see their question and appear on the flashcard.  
+
+### App Walk-though
+
+
+<img src="http://g.recordit.co/LbWuwT2DHE.gif" width=200><br>
+
+
+
+## Required
+- [x ] User can open the creation screen
+- [x ] User can cancel out of the creation screen
+- [x ] User can enter a new question and answer in the creation screen to then show it on the flashcard
+- [x ] Push code to GitHub
 
 ## Lab 1
 
